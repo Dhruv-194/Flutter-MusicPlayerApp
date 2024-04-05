@@ -15,3 +15,11 @@ This project entails a minimalistic Music Player App developed using Flutter and
 - **File Picker:** Reading & accessing file system and file storage of the mobile. 
 - **Audio Players:** Provides audio playing and audio controlling methods and services. 
 - **On Audio Query:** To query specific song audio files from internal storage.
+
+## Screenshots-
+
+<img src="Screenshots/Screenshot_20240406-002248~2.png" height = "400" width="200" hspace="10"> <img src="Screenshots/Screenshot_20240406-002241~2.png" height = "400" width="200" hspace="10"> <img src="Screenshots/Screenshot_20240406-004159.png" height = "400" width="200" hspace="10">
+
+<img src="Screenshots/Screenshot_20240406-002306~2.png" height = "400" width="200" hspace="10"> <img src="Screenshots/Screenshot_20240406-002309~2.png" height = "400" width="200" hspace="10">
+
+<img src="Screenshots/Screenshot_20240406-002332~2.png" height = "400" width="200" hspace="10"> <img src="Screenshots/Screenshot_20240406-004230~2.png" height = "400" width="200" hspace="10">
